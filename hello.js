@@ -7,6 +7,10 @@ const b=()=>{
     return '5';
 }
 
+const c=()=>{
+    console.log("welcome to c!😜❤️")
+}
+
 const d=()=>{
     confirm("Are you feel good today??")
-}
+
