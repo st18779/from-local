@@ -10,3 +10,7 @@ const b=()=>{
 const c=()=>{
     console.log("welcome to c!😜❤️")
 }
+
+const d=()=>{
+    confirm("Are you feel good today??")
+
