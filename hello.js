@@ -14,3 +14,12 @@ const c=()=>{
 const d=()=>{
     confirm("Are you feel good today??")
 
+}
+
+const e=()=>{
+    alert("yes,i feel good baruch ashem!!")
+}
+
+
+
+
