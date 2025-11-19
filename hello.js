@@ -8,5 +8,5 @@ const b=()=>{
 }
 
 const c=()=>{
-    console.log("welcome to c!😜")
+    console.log("welcome to c!😜❤️")
 }
