@@ -20,6 +20,9 @@ const e=()=>{
     alert("yes,i feel good baruch ashem!!")
 }
 
+const f=()=>{
+    alert("Welcome to f function")
+}
 
 
 
